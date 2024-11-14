@@ -1,0 +1,24 @@
+<svg width="58" height="58" viewBox="0 0 58 58" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="r00q2by2za">
+            <stop stop-color="#F6575F" offset="0%"/>
+            <stop stop-color="#BB28F8" offset="49.687%"/>
+            <stop stop-color="#8069F7" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="27gqm22l0b">
+            <stop stop-color="#FFF" offset="0%"/>
+            <stop stop-color="#FFF" stop-opacity=".498" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="4.168%" id="7kk3lo1bgc">
+            <stop stop-color="#AF6FF9" offset="0%"/>
+            <stop stop-color="#E6A1E9" offset="69.948%"/>
+            <stop stop-color="#FFF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M27.36 0c15.11 0 27.36 12.25 27.36 27.36S42.47 54.72 27.36 54.72 0 42.47 0 27.36 12.25 0 27.36 0z" fill="url(#r00q2by2za)" transform="translate(1.64 1.64)"/>
+        <path d="m13.679 15.507.001 15.122H5.76a3.6 3.6 0 0 1-3.6-3.6v-11.52l11.519-.002zm15.841.002v11.52a3.6 3.6 0 0 1-3.6 3.6H18l-.001-15.122 11.521.002z" fill="url(#27gqm22l0b)" transform="translate(13.16 13.16)"/>
+        <path d="M13.88 26.509a.72.72 0 0 1-.72-.72v-2.16c0-.795.645-1.44 1.44-1.44h28.8c.795 0 1.44.645 1.44 1.44v2.16a.72.72 0 0 1-.72.72H13.88z" fill="#FFF"/>
+        <path d="M18 30.629h-4.32v-21.6H5.867c-1.85-2.569-1.654-5.653.249-7.572 2.029-2.045 5.313-2.018 7.967.595a8.532 8.532 0 0 1 1.551 2.115l.206.414c.466-.987 1.05-1.832 1.758-2.53 2.654-2.612 5.938-2.64 7.967-.594 1.903 1.919 2.099 5.003.25 7.572H18v21.6zM8.304 4.339c-.633.638-.62 1.602.618 2.821.888.875 2.362 1.498 4.43 1.82l.327.044-.02-.137c-.288-1.668-.813-2.901-1.547-3.726l-.188-.198c-1.413-1.391-2.847-1.403-3.62-.624zm11.453.624-.188.198c-.734.825-1.259 2.058-1.546 3.726L18 9.024l.328-.045c2.068-.32 3.542-.944 4.43-1.819 1.238-1.219 1.25-2.183.618-2.821-.773-.78-2.207-.767-3.62.624z" fill="url(#7kk3lo1bgc)" fill-rule="nonzero" transform="translate(13.16 13.16)"/>
+    </g>
+</svg>

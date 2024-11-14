@@ -1,0 +1,93 @@
+[
+    {
+        "question": "What are the gift categories you prefer?",
+        "category" : "style",
+        "type": "text",
+        "response": "Clothing, Shoes, Jewelry, Cosmetic, Sports, Books, Stationary, Furniture, Appliances"
+    },
+    {
+        "question": "What are your hobbies?",
+        "category" : "style",
+        "type": "text",
+        "response": "Painting, Photography, Hiking, Cooking, Reading, Gardening, Writing, Knitting, Fashion"
+    },
+    {
+        "question": "Do you collect anything?",
+        "category" : "style",
+        "type": "text",
+        "response": "Stamps, Coins, Books, Antiques, Artwork, Seashells, Dolls, Keychains, Bags, Watches"
+    },
+    {
+        "question": "Which dress brands do you prefer?",
+        "category" : "brand",
+        "type": "text",
+        "response": "Alberta Ferretti, Adidas, Armani, Burberry, Crocs, Chanel, Christian Dior"
+    },
+    {
+        "question": "What is your dress size?",
+        "category" : "size",
+        "type": "text",
+        "response": "XXXS, XXS, XS, S, M, L, XL, XXL, XXXL"
+    },
+    {
+        "question": "What kind of styles do you prefer for dresses?",
+        "category" : "style",
+        "type": "text",
+        "response": "Classic, Atheisure, Streetwear, Casual, Business Casual, Grunge, Chic, Exotic"
+    },
+    {
+        "question": "What kind of neckline do you prefer?",
+        "category" : "style",
+        "type": "image",
+        "response": "Cown Neck, Boat Neck, Off-the-Shoulder, Square Neck"
+    },
+    {
+        "question": "What fabric do you prefer for dresses?",
+        "category" : "style",
+        "type": "text",
+        "response": "Acetate, Acrylic, Cotton, Chiffon, Denim, Georgette, Flannel, Jacquard"
+    },
+    {
+        "question": "What colors do you prefer for dresses?",
+        "category" : "color",
+        "type": "color",
+        "description": "Select at least 3 or more options.",
+        "response": [
+            {
+              "title": "Black",
+              "color": "#000000"
+            },
+            {
+              "title": "Red",
+              "color": "#ff0000"
+            }
+          ]
+    },
+    {
+        "question": "Which t-shirts brands do you prefer?",
+        "category" : "brand",
+        "type": "image",
+        "response": [
+            {
+              "title": "Gucci",
+              "image": "https://placehold.jp/150x150.png"
+            },
+            {
+              "title": "Armani",
+              "image": "https://placehold.jp/150x150.png"
+            }
+          ]
+    },
+    {
+        "question": "What is your t-shirt size?",
+        "category" : "size",
+        "type": "text",
+        "response": "XXXS, XXS, XS, S, M, L, XL, XXL, XXXL"
+    },
+    {
+        "question": "What kind of styles do you prefer for t-shirts?",
+        "category" : "style",
+        "type": "text",
+        "response": "Classic, Atheisure, Streetwear, Casual, Business Casual, Grunge, Chic, Exotic"
+    }
+]

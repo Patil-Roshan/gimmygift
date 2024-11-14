@@ -1,0 +1,9 @@
+{
+    "deferInitForPluginRuntime": true,
+    "liveKey": "key_live_pCnRZqw1lIWymCbiJhLcUloexta5KDhH",
+    "debugMode": true,
+    "testKey": "key_test_kzlMZvz5jI2FfzpnNeRbSmndtEpYQDb0",
+    "useTestInstance": true,
+    "delayInitToCheckForSearchAds": true,
+    "appleSearchAdsDebugMode": true
+}

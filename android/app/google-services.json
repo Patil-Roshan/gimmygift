@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641134220615",
+    "project_id": "gimmegift-notifications-2588a",
+    "storage_bucket": "gimmegift-notifications-2588a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641134220615:android:0cb12d32cae5bcfc602862",
+        "android_client_info": {
+          "package_name": "com.gimmegift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtg8XLVoovpD1QCh0YVDbK9cjOakSpiPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
